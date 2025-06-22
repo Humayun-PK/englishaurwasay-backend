@@ -1,0 +1,8 @@
+<!DOCTYPE html>
+<html>
+  <head><title>Submitted</title></head>
+  <body style="font-family: Inter, sans-serif; text-align: center; padding-top: 50px;">
+    <h2>Thank you, {{ name }}!</h2>
+    <p>Your application has been received.</p>
+  </body>
+</html>
